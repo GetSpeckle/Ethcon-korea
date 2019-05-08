@@ -13,7 +13,7 @@ Tutorial #2: Build logic in substrate!
 
 2. [Runtime module = State Transition Functions(STF)](./module2/local/2.md)
 
-  - Build a voting contract
+  - Build a ERC721 contract
   
   - Events
   
