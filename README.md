@@ -1,5 +1,6 @@
-# Ethcon-korea
-이드콘 코리아를 위한 강의 
+# Substrate-workshop
+
+Substrate workshop(Korean)
 
 [slides](https://docs.google.com/presentation/d/1eDNl7p01gn2LQZ2Jn6eVkvfn03ew7TrkXN97WTQPJxI/edit#slide=id.g59fbbf9936_0_132)
 
