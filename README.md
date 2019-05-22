@@ -4,28 +4,23 @@
 [slides](https://docs.google.com/presentation/d/1eDNl7p01gn2LQZ2Jn6eVkvfn03ew7TrkXN97WTQPJxI/edit#slide=id.g59fbbf9936_0_132)
 
 
-[Tutorial #1: 서브스트레이트 설치와 연결](./module1/local)
+[Module #1: Substrate quickstart](./module1)
 
-  1. [Korean translation of installing substrate](./module1/local/1.md)
-  2. [How to run nodes (e.g. opening RPC port, listing parachain network to telemetry)](./module1/local/2.md)
-  3. [Use speckle browser to send assets](./module1/local/3.md)
+  1. [Korean translation of installing substrate](./module1/1.md)
+  2. [Develop Runtime module and interact with substrate chain](./module1/2.md)
+  3. [Build Custom UI for interacting with substrate blockchain](./module1/3.md)
 
-Tutorial #2: Build logic in substrate!
-1. [Blockchain in state transition](./module2/local/1.md)
+[Module #2: Deep dive on runtime module](./module2)
+  1. [Understanding substrate runtime module(SRML)](./module2/1.md)
+  2. [Designing data model for your own Substrate chain](./module2/2.md)
+  3. [Smart contract(beta) - Parity ink](./module2/local/3.md)
 
-2. [Runtime module = State Transition Functions(STF)](./module2/local/2.md)
-
-  - Build a ERC721 contract
+[Module #3: Parity ink!](./module3)
+  1. [Introduction to Parity ink!](./module3/1.md)
+  2. [ERC20 on parity ink](./module3/2.md)
+  3. [Deploying it with user application](./module3/3.md)
   
-  - Events
-  
-  - Running it with polkadot/app
-  
-3. [Smart contract(beta) - Parity ink](./module2/local/3.md)
 
-  - Parity ink
-  
-  - Interacting with polkadot/app
 
 
 
